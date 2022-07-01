@@ -128,7 +128,7 @@ package lab3006;
 
                          doCheckMissingNumber(a,lastLimit); 
 
-                 } catch (DuplicateElementException | ElementOutOfBondException | StartNotWith1Exception |  
+                 } catch (DuplicateElementException | ElementOutOfBoundException | StartNotWith1Exception |  
 
                                  ElementGreaterThanLastLimitException e) { 
 
